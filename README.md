@@ -17,4 +17,4 @@ Karanlık / aydınlık tema desteği, açılış animasyonu ve Undertale tarzı 
 ## 🐾 Not
 Bu proje tamamen öğrenme ve eğlence amaçlıdır.  
 RıfkıMic, Ferhat ve GPT-5 tarafından yapılmıştır 💥
-Kodlar goblinhan yıkan tarafından çalınmıştır
+Kodlar Goblinhan Yıkan tarafından çakınmıştır.
