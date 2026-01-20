@@ -16,3 +16,4 @@ RıfkıMic Rage V7.4
 🐾 Not  
 Bu proje tamamen öğrenme ve eğlence amaçlıdır.  
 Kodların ilham kaynağı Goblinhan Yıkan’dır 💥  
+Dosya tag kısmındadır.
