@@ -1,5 +1,5 @@
 🎧 RıfkıMic Rage V7  
-Made with Ferhat & GPT-5  
+Made with Ferhat & Gemini & GPT-5  
 
 RıfkıMic, Python tabanlı gelişmiş bir ses kayıt ve oynatma uygulamasıdır.  
 Karanlık / aydınlık tema desteği, açılış animasyonu ve Undertale tarzı ses efektleriyle özel bir deneyim sunar.  
