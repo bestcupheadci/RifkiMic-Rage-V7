@@ -8,7 +8,7 @@ Karanlık / aydınlık tema desteği, açılış animasyonu ve Undertale tarzı 
 - Gelişmiş kayıt sistemi 🎙️  
 - Tema değiştirme (Dark / Light) 🌗  
 - Undertale benzeri açılış sesi 🔊  
-- “Made with Ferhat & GPT-5” splash sahnesi ✨  
+- “Made with Ferhat & Gemini & GPT-5” splash sahnesi ✨  
 
 📦 Sürüm  
 RıfkıMic Rage V7.4  
